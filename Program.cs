@@ -61,7 +61,6 @@
                 return val;
             }
 
-            // Generate and display 3 random decimal values
             Console.WriteLine("Random decimals between {0} and {1} (inclusive):", min, max);
             for (i = 0; i < 3; i++)
             {
